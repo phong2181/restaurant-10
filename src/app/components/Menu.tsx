@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Utensils, Wine, Coffee, Cake } from 'lucide-react';
+import { Utensils, Wine, Cake } from 'lucide-react';
 
 interface MenuItem {
   name: string;
